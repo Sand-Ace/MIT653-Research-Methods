@@ -61,19 +61,25 @@ Data analysis plan: The data collected using the survey will be analyzed descrip
  4. Ethical considerations
 
 4.1 Voluntary and informed participation: 
+
 The participants will give informed consent to participate in this study. They will be informed about the objectives of the study, as well as how the data will be used. Besides that, they will also be reminded of their right to withdraw from the study at any time before submitting the responses. The first section of the survey will contain an informed consent section. The participants will only be allowed to proceed to the next page after giving their consent.
 
 4.2 Minimizing harm and discomfort to participants: 
+
 This study will cause minimal harm to the participants since it will only collect information related to their knowledge and views on AI cybersecurity. However, some participants might feel uncomfortable when providing responses to certain questions. Therefore, the researcher will endeavor to ensure that the questions are not intrusive. Also, the participants will be allowed to skip any questions they find embarrassing or uncomfortable. Besides that, the survey will not ask the participants to provide passwords to any accounts or sensitive information related to their organizations or government.
 
 4.3 Maintaining confidentiality and privacy: 
-The study will ensure that participants’ data is kept confidential. It will also endeavor to maintain privacy by ensuring that the respondents are not identifiable from the published results. The researcher will avoid collecting any personal information from the participants. If any personal information is provided, it will be used only for the purposes of the research. The survey will be set to collect anonymous responses. However, if the need arises to collect identifiable information, the data will be stored securely. Also, the results will not mention the names of the participants.
+
+The study will ensure that participants’ data is kept confidential. It will also endeavor to maintain privacy by ensuring that the respondents are not identifiable from the published results. The researcher will avoid collecting any personal information from the participants. If any personal information is provided, it will be used only for the purposes of the research. The survey will be set to collect anonymous responses. However, if the need arises to collect identifiable information, the data will be stored securely. Also, the results will not mention the names of the participants.Participants will not be required to provide their names, student IDs,
+email addresses, or other unnecessary identifying information.
 
 4.4 Ensuring fairness and respect to all: 
+
 The researcher will treat all participants equally and respectfully. The questions will be phrased in a way that avoids discrimination or stereotyping. The language used in the questions will be polite and professional. All participants must meet the same eligibility criteria, and none of them will be unreasonably favored or treated unfairly. Additionally, the researcher will endeavor to avoid bias when developing the questions and analyzing the results.
 
 
 4.5 Honesty to colleagues and research integrity:
+
  The researcher will report the research honestly and avoid misrepresentation of the results. The data and analysis will not be fabricated or manipulated. The final report will describe the research’s limitations, as well as the reasons behind the research choices made. Proper credit will be given to the contributions made by colleagues, the project supervisor, and other researchers whose work was used to develop the research. Also, relevant information obtained from other authors and researchers will be correctly cited using the appropriate reference format.
 
 5. Data management
